@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.alfhans.sleepingtestfragment.MenuFragment"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Pilih Tujuan Anda"
+        android:textSize="30dp"
+        android:padding="15dp"
+        android:layout_marginLeft="70dp"
+        android:id="@+id/textView2"
+        android:textColor="#c0392b"/>
+
+    <Button
+        android:text="Start Sleeping"
+        android:textColor="#ecf0f1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1"
+        android:background="#c0392b"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:layout_marginLeft="26dp"
+        android:layout_marginStart="26dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_marginBottom="149dp" />
+
+    <Spinner
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="54dp"
+        android:id="@+id/spinner"
+        android:layout_marginLeft="50dp"/>
+
+</RelativeLayout>

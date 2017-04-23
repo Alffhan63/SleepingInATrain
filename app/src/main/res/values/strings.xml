@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sleeping In The Train </string>
+
+    <string-array name="planets_array">
+        <item>   --- select station        </item>
+        <item>Bogor</item>
+        <item>Cilebut</item>
+        <item>Bojong Gede</item>
+        <item>Citayam</item>
+        <item>Depok</item>
+        <item>Depok Baru</item>
+        <item>Pondok Cina</item>
+        <item>Universitas Indonesia</item>
+        <item>Universitas Pancasila</item>
+        <item>Lenteng Agung</item>
+        <item>Tanjung Barat</item>
+        <item>Pasar Minggu</item>
+        <item>Pasar Minggu Baru</item>
+        <item>Duren Kalibata</item>
+        <item>Cawang</item>
+        <item>Tebet</item>
+        <item>Manggarai</item>
+        <item>Cikini</item>
+        <item>Gondangdia</item>
+        <item>Juanda</item>
+        <item>Sawah Besar</item>
+        <item>Mangga Besar</item>
+        <item>Jayakarta</item>
+        <item>Jakarta Kota</item>
+    </string-array>
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
